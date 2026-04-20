@@ -1,56 +1,70 @@
-# 📊 Financial Performance & Sales Analysis Dashboard
+# 📊 Global Financial Performance & Sales Analysis Dashboard
 
 ## 📌 Overview
-This project analyzes financial performance versus targets to evaluate sales trends, profitability, and variance drivers over time.  
-The dashboard is designed to support management decision-making and performance monitoring.
+This project analyzes global financial performance with a focus on **sales, COGS, profit, and trends over time**.  
+The dashboard is designed to support **management decision‑making**, performance monitoring, and profitability analysis.
 
 ---
 
 ## 🏢 Business Problem
-Organizations set sales targets to guide strategy and budgeting.  
-This analysis helps identify performance gaps, trends, and areas requiring management attention.
+Organizations need clear visibility into financial performance to understand:
+- Revenue growth
+- Cost behavior
+- Profitability across regions and products
+
+This analysis helps identify **performance gaps**, **profit drivers**, and **areas that require management attention**.
 
 ---
 
 ## 🔍 Key Questions Answered
-- Did actual sales meet the sales targets?
-- Which months overperformed or underperformed?
-- What is the overall sales variance?
-- Are performance issues seasonal or consistent?
+- How are sales and profit performing overall?
+- Which countries and products contribute most to revenue and profit?
+- How do sales and profits trend over time?
+- Where are cost or profitability risks?
 
 ---
 
 ## 📈 Key Metrics & KPIs
 - Total Sales
-- Target Sales
-- Sales Variance
-- Variance Percentage
-- Monthly Sales Trends
-- Profit & Margin Indicators
+- Cost of Goods Sold (COGS)
+- Profit
+- Tax
+- Order Count
+- Sales & Profit Trends
 
 ---
 
 ## 📊 Dashboard Features
-- KPI cards for quick evaluation
-- Monthly sales vs target comparison
-- Trend analysis across time periods
-- Profit and margin insights
+- Executive KPI cards for quick performance evaluation
+- Sales, COGS, and profit breakdown by country
+- Product‑level sales analysis
+- Time‑based trend analysis (Year, Quarter, Month)
+- Clear and business‑focused visual layout
+
+---
+
+## 🖼 Dashboard Preview
+*(Screenshots available in the `screenshots` folder)*
+
+- Financial overview and KPIs  
+- Sales and profit by country  
+- Sales trends over time  
 
 ---
 
 ## 💡 Key Insights
-- Total sales reached approximately $6.1M, slightly below the $6.2M target
-- Overall variance of around -1.7%
-- Strong performance in specific months compensated weaker periods
-- Underperformance appears concentrated rather than systemic
+- Overall sales reached approximately **27M**, with profitability varying by country
+- A small number of countries contribute the majority of total profit
+- Some high‑sales products generate lower profit, indicating margin pressure
+- Sales and profit trends show clear seasonal patterns
 
 ---
 
 ## ✅ Business Recommendations
-- Improve seasonal forecasting
-- Review pricing or demand drivers in weak months
-- Adjust targets using historical trends
-- Combine sales and cost analysis for margin optimization
+- Focus growth efforts on **high‑margin regions and products**
+- Review pricing or cost structure for high‑volume but low‑profit products
+- Use trend insights to improve forecasting and planning
+- Monitor COGS closely to protect margins
 
 ---
 
