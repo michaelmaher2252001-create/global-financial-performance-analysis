@@ -1,0 +1,74 @@
+# 📊 Financial Performance & Sales Analysis Dashboard
+
+## 📌 Overview
+This project analyzes financial performance versus targets to evaluate sales trends, profitability, and variance drivers over time.  
+The dashboard is designed to support management decision-making and performance monitoring.
+
+---
+
+## 🏢 Business Problem
+Organizations set sales targets to guide strategy and budgeting.  
+This analysis helps identify performance gaps, trends, and areas requiring management attention.
+
+---
+
+## 🔍 Key Questions Answered
+- Did actual sales meet the sales targets?
+- Which months overperformed or underperformed?
+- What is the overall sales variance?
+- Are performance issues seasonal or consistent?
+
+---
+
+## 📈 Key Metrics & KPIs
+- Total Sales
+- Target Sales
+- Sales Variance
+- Variance Percentage
+- Monthly Sales Trends
+- Profit & Margin Indicators
+
+---
+
+## 📊 Dashboard Features
+- KPI cards for quick evaluation
+- Monthly sales vs target comparison
+- Trend analysis across time periods
+- Profit and margin insights
+
+---
+
+## 💡 Key Insights
+- Total sales reached approximately $6.1M, slightly below the $6.2M target
+- Overall variance of around -1.7%
+- Strong performance in specific months compensated weaker periods
+- Underperformance appears concentrated rather than systemic
+
+---
+
+## ✅ Business Recommendations
+- Improve seasonal forecasting
+- Review pricing or demand drivers in weak months
+- Adjust targets using historical trends
+- Combine sales and cost analysis for margin optimization
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI
+- Excel / CSV
+- DAX Measures
+- Data Modeling & Visualization
+
+---
+
+## 📂 Dataset
+- Simulated or anonymized data
+- No confidential or proprietary information included
+
+---
+
+## 👤 Author
+Michael Massoud  
+Data / Financial Analyst  
+Cairo, Egypt
